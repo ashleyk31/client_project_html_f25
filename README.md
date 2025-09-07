@@ -1,2 +1,3 @@
 # client_project_html_f25
-week 2 discussion 539
+
+This is the repository for the client project.
